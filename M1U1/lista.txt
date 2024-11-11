@@ -2,3 +2,6 @@ web
 seo
 fotografias
 texto
+gif
+jpg
+animaciones
